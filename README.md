@@ -1,13 +1,18 @@
+<table width="100%" style="background-color: #0a0a0a; border: none; padding: 20px;">
+
+<tr>
+<td align="center">
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=45&duration=2000&pause=600&color=FF00FF&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+DiZi" alt="Hi" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=45&duration=2000&pause=600&color=FF00FF&center=true&vCenter=true&random=false&width=500&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+DiZi" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&random=false&width=500&height=40&lines=AI+%E2%80%A2+Creative+Developer+%E2%80%A2+Web3" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3500&pause=1200&color=00FFFF&center=true&vCenter=true&random=false&width=500&height=40&lines=AI+%E2%80%A2+Creative+Developer+%E2%80%A2+Web3" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DIZI&color=ff00ff&style=for-the-badge&label=✦+VISITORS" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=DIZI&color=ff00ff&style=for-the-badge&label=✦+VISITORS" />
 </p>
 
 ---
@@ -15,11 +20,11 @@
 ## <span style="color:#00ffff;">⸻ FLOATING LEARNING BLOCKS ⸻</span>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀_Git-⏳-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a&color=ff00ff&style=plastic&logoWidth=30" style="animation: float 3s ease-in-out infinite;" />
-  <img src="https://img.shields.io/badge/🐙_GitHub-⚡-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=00ffff&style=plastic" style="animation: float 3.5s ease-in-out infinite;" />
-  <img src="https://img.shields.io/badge/🎧_Vibe_Coding-🌀-6c63ff?style=for-the-badge&logo=code&logoColor=white&labelColor=0a0a0a&color=ffcc00&style=plastic" style="animation: float 4s ease-in-out infinite;" />
-  <img src="https://img.shields.io/badge/🤖_AI_Dev-🧠-00bcd4?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0a0a0a&color=ff6b6b&style=plastic" style="animation: float 4.5s ease-in-out infinite;" />
-  <img src="https://img.shields.io/badge/🐍_Python-📘-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a&color=ffd700&style=plastic" style="animation: float 5s ease-in-out infinite;" />
+  <img src="https://img.shields.io/badge/🚀_Git-⏳-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0a0a0a&color=ff00ff" />
+  <img src="https://img.shields.io/badge/🐙_GitHub-⚡-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0a0a0a&color=00ffff" />
+  <img src="https://img.shields.io/badge/🎧_Vibe_Coding-🌀-6c63ff?style=for-the-badge&logo=code&logoColor=white&labelColor=0a0a0a&color=ffcc00" />
+  <img src="https://img.shields.io/badge/🤖_AI_Dev-🧠-00bcd4?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0a0a0a&color=ff6b6b" />
+  <img src="https://img.shields.io/badge/🐍_Python-📘-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0a0a0a&color=ffd700" />
 </p>
 
 ---
@@ -38,24 +43,16 @@
 ## <span style="color:#00ffff;">⸻ 2026 GLITCH GOALS ⸻</span>
 
 <p align="center">
-  <span style="font-family: 'Orbitron', monospace; font-size: 28px; font-weight: 900; background: #0a0a0a; color: #fff; text-shadow: 4px 0 cyan, -4px 0 magenta, 2px 2px 4px rgba(255,0,255,0.5); animation: glitch 1.5s infinite;">
-    🧠 BUILD 10 AI PROJECTS
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=50&lines=🧠+BUILD+10+AI+PROJECTS" style="text-shadow: 4px 0 cyan, -4px 0 magenta;" />
 </p>
 <p align="center">
-  <span style="font-family: 'Orbitron', monospace; font-size: 28px; font-weight: 900; background: #0a0a0a; color: #fff; text-shadow: 3px 0 cyan, -3px 0 magenta, 3px 3px 0 #ff00ff; animation: glitch 2s infinite;">
-    🌍 CONTRIBUTE TO OSS
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=50&lines=🌍+CONTRIBUTE+TO+OSS" style="text-shadow: 3px 0 cyan, -3px 0 magenta;" />
 </p>
 <p align="center">
-  <span style="font-family: 'Orbitron', monospace; font-size: 28px; font-weight: 900; background: #0a0a0a; color: #fff; text-shadow: 5px 0 cyan, -5px 0 magenta, 0 0 10px #00ffff; animation: glitch 1.8s infinite;">
-    🔥 MASTER GIT
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=50&lines=🔥+MASTER+GIT" style="text-shadow: 5px 0 cyan, -5px 0 magenta;" />
 </p>
 <p align="center">
-  <span style="font-family: 'Orbitron', monospace; font-size: 28px; font-weight: 900; background: #0a0a0a; color: #fff; text-shadow: 4px 0 cyan, -4px 0 magenta, 4px 4px 4px rgba(0,255,255,0.7); animation: glitch 2.2s infinite;">
-    🚀 LAUNCH MY OWN SaaS
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=28&duration=1&pause=1&color=FFFFFF&center=true&vCenter=true&random=false&width=600&height=50&lines=🚀+LAUNCH+MY+OWN+SaaS" style="text-shadow: 4px 0 cyan, -4px 0 magenta;" />
 </p>
 
 ---
@@ -72,3 +69,7 @@
 <p align="center">
   <b style="color:#aaaaaa;">⭐ Thanks for stopping by! ⭐</b>
 </p>
+
+</td>
+</tr>
+</table>
